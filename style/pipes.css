@@ -1,0 +1,14 @@
+body {
+	background: #CCC;
+}
+
+canvas {
+	position: absolute;
+	top: calc(50% - 260px);
+	left: calc(50% - 410px);
+
+	border: 1px solid #999;
+	background: #AAA;
+	padding: 20px;
+	border-radius: 20px;
+}
